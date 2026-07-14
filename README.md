@@ -27,9 +27,9 @@ django-admin startproject gestion_library
 ```
 python manage.py startapp library
 ```
+```
 python manage.py startapp library
 ```
-
 ## Creation, migration du model
 1. creation des Models dans le fichier models : Author(name), Book(title), Loan(borrow_date, return_date)
 
